@@ -1,1 +1,1 @@
-print("Hello my nickname is Fame")
+print("Kunanon Intharaphol")
