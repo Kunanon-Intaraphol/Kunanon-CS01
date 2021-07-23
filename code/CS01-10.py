@@ -1,4 +1,4 @@
-animal = ["cat" , "Dog" , "bird" , "cat" , "bird" , "Dog"]
+animal = ["cat", "Dog", "bird",]
 for x in animal:
     print(x)
     if x == "cat":
